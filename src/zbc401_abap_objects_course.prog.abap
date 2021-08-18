@@ -8,7 +8,7 @@
 *& EX 8 Upcast
 *& EX 9 Implement Polymorphism using inheritance.
 *&---------------------------------------------------------------------*
-REPORT zbc401_ex2.
+REPORT zbc401_abap_objects_course.
 
 CLASS lcl_airplane DEFINITION.
   PUBLIC SECTION.
